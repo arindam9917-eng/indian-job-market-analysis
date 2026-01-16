@@ -1,1 +1,12 @@
+Job_Title,Company,Location,Salary_LPA,Skills
+Data Analyst,TCS,Bangalore,6,"Python, SQL, Excel"
+Software Engineer,Infosys,Hyderabad,5.5,"Java, Python, OOP"
+Business Analyst,Accenture,Pune,7,"SQL, Power BI, Excel"
+Data Scientist,Wipro,Bangalore,10,"Python, ML, Pandas"
+Web Developer,HCL,Noida,4.5,"HTML, CSS, JavaScript"
+Machine Learning Engineer,Tech Mahindra,Bangalore,12,"Python, ML, TensorFlow"
+Data Analyst,Cognizant,Kolkata,5,"Python, SQL, Tableau"
+Software Developer,Capgemini,Mumbai,6.5,"Java, Spring, SQL"
+Data Engineer,Amazon,Bangalore,14,"Python, SQL, AWS"
+Data Analyst,Flipkart,Bangalore,8,"Python, SQL, Power BI"
 
